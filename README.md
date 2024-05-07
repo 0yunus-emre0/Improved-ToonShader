@@ -8,7 +8,7 @@ I improved the shader in this link and i rewrote it for Built-In Render Pipeline
 Improvements:
 - Added Transparency settings.
 - Added floody vertex manipulation settings. (These settings are Optional.)
-- Rewritten shader for Built-In Render Pipline.
+- Rewritten shader for Built-In Render Pipeline.
 - Fixed "implicit truncation of vector type" shader warnings.
 
   Note: Shader Tested Windows and Android platforms and it works fine.
