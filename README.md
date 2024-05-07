@@ -1,7 +1,7 @@
 # Improved-ToonShader
-An "improved toon shader" that works on URP and Built-In Render Piplines.
+An "improved toon shader" that works on URP and Built-In Render Pipelines.
 
-I improved the shader in this link and i rewrote it for Built-In Render Pipline.
+I improved the shader in this link and i rewrote it for Built-In Render Pipeline.
 
 (URP)Simple Toon Shader : https://assetstore.unity.com/packages/vfx/shaders/urp-simple-toon-shader-243515
 
